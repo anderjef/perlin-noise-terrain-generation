@@ -1,8 +1,8 @@
-# Perlin Noise Terrain Generation
+# Perlin Noise Terrain Generation License
 
 ## Copyright
 
-(c) © 2020 Jeffrey Andersen
+Copyright (c) 2020 Jeffrey Andersen
 
 ## Warranty
 
